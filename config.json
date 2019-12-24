@@ -2,7 +2,7 @@
     "DirLin": "/home/USER/.config/discord/",
     "DirLinCan": "/home/USER/.config/discordcanary/",
     "DirWin": "TODO",
-    "DirWinCan": "TODO",
+    "DirWinCan": "%userprofile%/AppData\Local\DiscordCanary\",
     "DirMac": "TODO",
-    "DirMacCan": "TODO"
+    "DirMacCan": "/Library/Application Support/discordcanary/quotes.json"
 }
